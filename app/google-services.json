@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522432044960",
+    "project_id": "lovocal-c069e",
+    "storage_bucket": "lovocal-c069e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522432044960:android:086486e8331d2078aecec5",
+        "android_client_info": {
+          "package_name": "com.example.lovocal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522432044960-5t1err0hlbp01at0age10hdq8faqat84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFBB0Z1MEhk8o-Incq6xC-7flCQgan16E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522432044960-5t1err0hlbp01at0age10hdq8faqat84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
